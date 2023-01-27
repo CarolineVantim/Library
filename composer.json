@@ -1,0 +1,19 @@
+{
+    "name": "cvantim/poo",
+    "require": {
+        "symfony/dotenv": "^6.1",
+        "php-di/php-di": "^6.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cvantim\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caroline Vantim",
+            "email": "carolvantim@gmail.com"
+        }
+    ]
+}
